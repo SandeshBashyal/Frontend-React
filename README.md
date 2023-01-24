@@ -22,3 +22,7 @@ Then create the project
 ```md
 create-react-app tutorials
 ```
+
+Commits:      1. Repo Created
+              2. Hello World (Initialize React App)
+              3. 
